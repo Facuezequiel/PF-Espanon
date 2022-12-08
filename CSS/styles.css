@@ -2,6 +2,22 @@
   background: linear-gradient(to right, rgb(255, 255, 255), rgb(130, 129, 129));
 }
 
+.bgImg5 {
+  background-image: url(../Images/lavado.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mainInicio {
+  margin: 2% 15% 2% 15%;
+}
+
+.carousel {
+  height: 10%;
+}
+
 .card {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax (300px, 1fr));
@@ -18,4 +34,5 @@
 
 footer {
   background: linear-gradient(to right, white, rgb(158, 158, 158));
+  opacity: 40%;
 }
