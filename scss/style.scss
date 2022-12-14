@@ -2,6 +2,7 @@
 @import "navbar.scss";
 @import "servicios.scss";
 @import "footer.scss";
+@import "nosotros.scss";
 
 .bgImg5 {
   background-image: url(../Images/lavado.jpg);
@@ -11,6 +12,10 @@
   background-size: cover;
 }
 
-.formulario {
-  margin: 5%;
+.mainContact {
+  margin: 10%;
+}
+
+.iframes {
+  height: 50px;
 }

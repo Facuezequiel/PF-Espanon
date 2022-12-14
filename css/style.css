@@ -20,6 +20,16 @@ footer {
   background: linear-gradient(to right, white, rgb(158, 158, 158));
 }
 
+.tituloNosotros {
+  margin: 4%;
+}
+
+.grid-container {
+  padding: 3%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
 .bgImg5 {
   background-image: url(../Images/lavado.jpg);
   position: relative;
@@ -28,8 +38,12 @@ footer {
   background-size: cover;
 }
 
-.formulario {
-  margin: 5%;
+.mainContact {
+  margin: 10%;
+}
+
+.iframes {
+  height: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
