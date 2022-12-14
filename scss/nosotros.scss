@@ -1,9 +1,14 @@
+.nosotros {
+  .contentNos {
+    padding: 2%;
+    margin: 2%;
+    .imgNosotros {
+      width: 40%;
+      border-radius: 10px;
+      margin: 5% 0 5% 5%;
+    }
+  }
+}
 .tituloNosotros {
   margin: 4%;
-}
-
-.grid-container {
-  padding: 3%;
-  display: grid;
-  grid-template-columns: 50% 50%;
 }

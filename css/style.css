@@ -20,14 +20,18 @@ footer {
   background: linear-gradient(to right, white, rgb(158, 158, 158));
 }
 
-.tituloNosotros {
-  margin: 4%;
+.nosotros .contentNos {
+  padding: 2%;
+  margin: 2%;
+}
+.nosotros .contentNos .imgNosotros {
+  width: 40%;
+  border-radius: 10px;
+  margin: 5% 0 5% 5%;
 }
 
-.grid-container {
-  padding: 3%;
-  display: grid;
-  grid-template-columns: 50% 50%;
+.tituloNosotros {
+  margin: 4%;
 }
 
 .bgImg5 {
@@ -44,6 +48,14 @@ footer {
 
 .iframes {
   height: 50px;
+}
+
+h1 {
+  color: rgb(0, 5, 100);
+}
+
+h2 {
+  color: rgb(0, 5, 100);
 }
 
 /*# sourceMappingURL=style.css.map */
