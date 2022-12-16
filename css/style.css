@@ -40,14 +40,11 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 90%;
 }
 
 .mainContact {
   margin: 10%;
-}
-
-.iframes {
-  height: 50px;
 }
 
 h1 {
