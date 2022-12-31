@@ -30,29 +30,16 @@ footer {
   margin: 5% 0 5% 5%;
 }
 
-.tituloNosotros {
-  margin: 4%;
-}
-
-.bgImg5 {
-  background-image: url(../Images/lavado.jpg);
-  position: relative;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 90%;
-}
-
-.mainContact {
-  margin: 10%;
-}
-
 h1 {
   color: rgb(0, 5, 100);
 }
 
 h2 {
   color: rgb(0, 5, 100);
+}
+
+.contact {
+  margin: 5%;
 }
 
 /*# sourceMappingURL=style.css.map */
