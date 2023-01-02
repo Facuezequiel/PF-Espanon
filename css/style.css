@@ -8,12 +8,24 @@
   background: linear-gradient(to top, rgb(112, 112, 112), rgb(208, 208, 210));
 }
 
+.bg {
+  background-color: rgb(235, 235, 235);
+}
+
 .menu {
   background: linear-gradient(to right, rgb(255, 255, 255), rgb(130, 129, 129));
 }
 
 .tarjetas {
   margin: 5%;
+}
+
+.card {
+  transition: all 0.4s;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 footer {
